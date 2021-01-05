@@ -1,1 +1,1 @@
-# Python_basic
+# Python 기본 문법
